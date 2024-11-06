@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class FindMaxElement {
+    // [Thực hành] Tìm giá trị lớn nhất trong mảng (v.2023)
     public static void main(String[] args) {
         int size;
         int[] array;
